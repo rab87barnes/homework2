@@ -1,0 +1,55 @@
+body {
+    margin: 30px;
+    background-color: peru;
+}
+
+header {
+    color: silver;
+    background-color: black;
+}
+
+main {
+    color: black;
+    text-decoration: none;
+}
+.my-container {
+    border: 1px solid green;
+}
+
+.my-row1 {
+    border: 3px solid red;
+    height: 50px;
+    
+}
+
+.my-row2 {
+    border: 3px solid red;
+    height: 300px;
+}
+
+.my-col {
+    border: 3px solid blue;
+}
+
+h2 {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+.media footer {
+    text-align: center;
+}
+
+.home-images {
+    text-align: center;
+}
+
+.Pricing {
+    text-align: center;
+    color: rgb(77, 78, 85);
+}
+
+
